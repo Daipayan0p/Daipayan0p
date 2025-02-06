@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Daipayan Guha Neogi
 
-<!--
-**Daipayan0p/Daipayan0p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+### 📱 Mobile App Development
+- **Flutter** – Cross-platform mobile development
+- **SwiftUI** – iOS app development with modern UI framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Backend Development
+- **Spring Boot** – Java-based backend framework
+- **Flask** – Lightweight Python web framework
+- **FastAPI** – High-performance Python API development
+
+### ☁️ Cloud & DevOps
+- **AWS** – Cloud computing services & deployment
+
+### 💻 Programming Languages
+- **Dart** (for Flutter)
+- **Swift** (for SwiftUI)
+- **Java** (for Spring Boot)
+- **Python** (for Flask & FastAPI)
+
+---
+
+### 📫 Get in Touch
+Let's connect and collaborate! Feel free to reach out.
+
+[LinkedIn](#) | [GitHub](#) | [Email](#)
